@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Widget</string>
+    <string name="appwidget_text">Count widgets</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="hello">Hello</string>
+</resources>
